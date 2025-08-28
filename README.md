@@ -112,7 +112,7 @@ https://drive.google.com/file/d/15YT9GmwSb2yBl7YUQcdt3mz4Zg1ZBldw/view?usp=drive
 
 📖 References
 
-Avenue Dataset
+Avenue Dataset https://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html
 
 YOLOv8 Documentation
 
